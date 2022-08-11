@@ -1,0 +1,62 @@
+.container {
+  background: linear-gradient(
+    179.2deg,
+    rgb(21, 21, 212) 0.9%,
+    rgb(53, 220, 243) 95.5%
+  );
+}
+.form-select {
+  display: block;
+}
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  margin-top: 8px;
+}
+h2 {
+  display: block;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  color: white;
+  margin-bottom: 5px;
+}
+.temperature {
+  display: block;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 26px;
+  color: white;
+  margin-top: 8px;
+}
+.units {
+  position: relative;
+  right: -600px;
+  top: -40px;
+  font-size: 12px;
+  color: white;
+}
+a {
+  color: white;
+}
+p {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-sm {
+  display: block;
+  margin: 0 80px 0 80px;
+}
+
+.col-6 {
+  color: white;
+  font-size: 17px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button {
+  font-family: sans-serif;
+  font-size: 15px;
+}
