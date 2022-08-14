@@ -36,8 +36,9 @@ h2 {
 .windspeed {
   display: block;
   text-align: center;
+  text-transform: capitalize;
   margin: 0 auto;
-  font-size: 14px;
+  font-size: 17px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
 }
