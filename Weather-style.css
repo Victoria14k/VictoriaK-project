@@ -30,6 +30,13 @@ h2 {
   color: white;
   margin-top: 8px;
 }
+.temperature-description, .feels-like, .humidity, .windspeed {
+  display: block;
+  margin: 0 auto;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
 .units {
   position: relative;
   right: -600px;
