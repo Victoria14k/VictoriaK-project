@@ -30,7 +30,10 @@ h2 {
   color: white;
   margin-top: 8px;
 }
-.temperature-description, .feels-like, .humidity, .windspeed {
+.temperature-description,
+.feels-like,
+.humidity,
+.windspeed {
   display: block;
   margin: 0 auto;
   font-size: 12px;
